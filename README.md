@@ -1,1 +1,1 @@
-# CS33-Intel-RealSense-Gesture-Recogntion-
+# CS33-RealSense_GestureRecognition
